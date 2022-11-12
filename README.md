@@ -1,4 +1,4 @@
-# peatio-sato
+# peatio-sato.
 plugin for peatio exchange
 
 go into the folder /lib/peatio
